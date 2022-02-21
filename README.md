@@ -1,4 +1,4 @@
-# mistminds-nodejs
+# nodejs
 
 # Steps
 - npm install
